@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Contest</string>
+    <string name="auth_fill_fields">Заполните поля для входа в систему</string>
+    <string name="auth_select_branch">Выберите филиал</string>
+    <string name="auth_login_placeholder">Логин / ID / email</string>
+    <string name="auth_password_placeholder">Пароль</string>
+    <string name="auth_agree_temrs_of_use">Я принимаю условия пользования приложения</string>
+    <string name="auth_sign_in">Войти</string>
+    <string name="auth_no_account">Нет аккаунта?</string>
+    <string name="auth_forgot_password">Забыли пароль?</string>
+    <string name="auth_sign_up">Зарегистрируйтесь</string>
+    <string name="auth_restore">Восстановить</string>
+    <string name="sign_up_invited_by">Вас привел</string>
+    <string name="sign_up_referral_award">За это ты получаешь</string>
+    <string name="sign_up_finish_signing_up">Пожалуйста, заверши регистрацию</string>
+    <string name="sign_up_agree_terms_of_use">Я принимаю условия пользования сайта</string>
+    <string name="sign_up_phone_placeholder">Телефон</string>
+    <string name="sign_up_password_placeholder">Пароль</string>
+    <string name="sign_up_email_placeholder">Введите e-mail</string>
+    <string name="sign_up_last_name_placeholder">Фамилия</string>
+    <string name="sign_up_first_name_placeholder">Имя</string>
+    <string name="sign_up_login_placeholder">Логин</string>
+    <string name="sign_up_sign_up">Зарегистрироваться</string>
+    <string name="restore_already_have_account">Уже есть аккаунт? Войти</string>
+    <string name="restore_title">Восстановление аккаунта</string>
+    <string name="post_sign_up_you_signed_up">Вы успешно зарегистрировались по реферальной программе!</string>
+    <string name="post_sign_up_download_app">Скачайте приложение</string>
+    <string name="post_sign_up_and_get">и получите еще</string>
+    <string name="post_sign_up_to_your_balance">на свой счет немедленно!</string>
+    <string name="post_sign_up_guide_1">После скачивания приложения требуется авторизоваться со своим логином и паролем!</string>
+    <string name="post_sign_up_guide_2">Приводи друзей - играй бесплатно!</string>
+</resources>
